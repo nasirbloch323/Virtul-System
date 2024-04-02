@@ -55,7 +55,6 @@ Before deploying your application, make sure to set up the backend server on you
 
 For backend deployment, please refer to the backend repository for instructions and deployment guides:
 
-[LearnEase Backend Repository](https://github.com/shahsad-kp/LearnEase-Server)
 
 ## Environment Variables
 
@@ -65,11 +64,3 @@ To run this project, you will need to add the following environment variables to
 
 `VITE_WEBSOCKET_URL`
 
-
-## Feedback
-
-If you have any feedback, please reach me at shahsadkpklr@gmail.com or connect me at [LinkedIn](https://www.linkedin.com/in/shahsad-kp/)
-
-
-## Support
-Show your support by 🌟 the project!!
